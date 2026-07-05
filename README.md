@@ -96,9 +96,9 @@ This project helped me learn:
 
 **Your Name**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Asr1403
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/ayush-singh1403/
 
 ---
 
